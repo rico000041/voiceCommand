@@ -1,0 +1,2097 @@
+fileFormatVersion: 2
+guid: 3a2c261fc60012d4e84e943265e4555c
+timeCreated: 1521428813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oni_ef00out_0
+    21300002: oni_ef00out_1
+    21300004: oni_ef00out_2
+    21300006: oni_ef00out_3
+    21300008: oni_ef00out_4
+    21300010: oni_ef00out_5
+    21300012: oni_ef00out_6
+    21300014: oni_ef00out_7
+    21300016: oni_ef00out_8
+    21300018: oni_ef00out_9
+    21300020: oni_ef00out_10
+    21300022: oni_ef00out_11
+    21300024: oni_ef00out_12
+    21300026: oni_ef00out_13
+    21300028: oni_ef00out_14
+    21300030: oni_ef00out_15
+    21300032: oni_ef00out_16
+    21300034: oni_ef00out_17
+    21300036: oni_ef00out_18
+    21300038: oni_ef00out_19
+    21300040: oni_ef00out_20
+    21300042: oni_ef00out_21
+    21300044: oni_ef00out_22
+    21300046: oni_ef00out_23
+    21300048: oni_ef00out_24
+    21300050: oni_ef00out_25
+    21300052: oni_ef00out_26
+    21300054: oni_ef00out_27
+    21300056: oni_ef00out_28
+    21300058: oni_ef00out_29
+    21300060: oni_ef00out_30
+    21300062: oni_ef00out_31
+    21300064: oni_ef00out_32
+    21300066: oni_ef00out_33
+    21300068: oni_ef00out_34
+    21300070: oni_ef00out_35
+    21300072: oni_ef00out_36
+    21300074: oni_ef00out_37
+    21300076: oni_ef00out_38
+    21300078: oni_ef00out_39
+    21300080: oni_ef00out_40
+    21300082: oni_ef00out_41
+    21300084: oni_ef00out_42
+    21300086: oni_ef00out_43
+    21300088: oni_ef00out_44
+    21300090: oni_ef00out_45
+    21300092: oni_ef00out_46
+    21300094: oni_ef00out_47
+    21300096: oni_ef00out_48
+    21300098: oni_ef00out_49
+    21300100: oni_ef00out_50
+    21300102: oni_ef00out_51
+    21300104: oni_ef00out_52
+    21300106: oni_ef00out_53
+    21300108: oni_ef00out_54
+    21300110: oni_ef00out_55
+    21300112: oni_ef00out_56
+    21300114: oni_ef00out_57
+    21300116: oni_ef00out_58
+    21300118: oni_ef00out_59
+    21300120: oni_ef00out_60
+    21300122: oni_ef00out_61
+    21300124: oni_ef00out_62
+    21300126: oni_ef00out_63
+    21300128: oni_ef00out_64
+    21300130: oni_ef00out_65
+    21300132: oni_ef00out_66
+    21300134: oni_ef00out_67
+    21300136: oni_ef00out_68
+    21300138: oni_ef00out_69
+    21300140: oni_ef00out_70
+    21300142: oni_ef00out_71
+    21300144: oni_ef00out_72
+    21300146: oni_ef00out_73
+    21300148: oni_ef00out_74
+    21300150: oni_ef00out_75
+    21300152: oni_ef00out_76
+    21300154: oni_ef00out_77
+    21300156: oni_ef00out_78
+    21300158: oni_ef00out_79
+    21300160: oni_ef00out_80
+    21300162: oni_ef00out_81
+    21300164: oni_ef00out_82
+    21300166: oni_ef00out_83
+    21300168: oni_ef00out_84
+    21300170: oni_ef00out_85
+    21300172: oni_ef00out_86
+    21300174: oni_ef00out_87
+    21300176: oni_ef00out_88
+    21300178: oni_ef00out_89
+    21300180: oni_ef00out_90
+    21300182: oni_ef00out_91
+    21300184: oni_ef00out_92
+    21300186: oni_ef00out_93
+    21300188: oni_ef00out_94
+    21300190: oni_ef00out_95
+    21300192: oni_ef00out_96
+    21300194: oni_ef00out_97
+    21300196: oni_ef00out_98
+    21300198: oni_ef00out_99
+    21300200: oni_ef00out_100
+    21300202: oni_ef00out_101
+    21300204: oni_ef00out_102
+    21300206: oni_ef00out_103
+    21300208: oni_ef00out_104
+    21300210: oni_ef00out_105
+    21300212: oni_ef00out_106
+    21300214: oni_ef00out_107
+    21300216: oni_ef00out_108
+    21300218: oni_ef00out_109
+    21300220: oni_ef00out_110
+    21300222: oni_ef00out_111
+    21300224: oni_ef00out_112
+    21300226: oni_ef00out_113
+    21300228: oni_ef00out_114
+    21300230: oni_ef00out_115
+    21300232: oni_ef00out_116
+    21300234: oni_ef00out_117
+    21300236: oni_ef00out_118
+    21300238: oni_ef00out_119
+    21300240: oni_ef00out_120
+    21300242: oni_ef00out_121
+    21300244: oni_ef00out_122
+    21300246: oni_ef00out_123
+    21300248: oni_ef00out_124
+    21300250: oni_ef00out_125
+    21300252: oni_ef00out_126
+    21300254: oni_ef00out_127
+    21300256: oni_ef00out_128
+    21300258: oni_ef00out_129
+    21300260: oni_ef00out_130
+    21300262: oni_ef00out_131
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oni_ef00out_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1776
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1921
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1921
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1921
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1832
+        width: 52
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_5
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1786
+        width: 32
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1968
+        width: 380
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1728
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_8
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1960
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_9
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1010
+        width: 144
+        height: 1038
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_10
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1008
+        width: 72
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1793
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1556
+        width: 126
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_13
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1793
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1888
+        width: 376
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1812
+        width: 358
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_16
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1796
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1733
+        width: 320
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1553
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_20
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1732
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_21
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1505
+        width: 126
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_22
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1505
+        width: 126
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_23
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1505
+        width: 126
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_24
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1505
+        width: 126
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_25
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1384
+        width: 32
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_26
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1384
+        width: 22
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_27
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1576
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_28
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1264
+        width: 416
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1509
+        width: 236
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1431
+        width: 349
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1468
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1460
+        width: 236
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_33
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1316
+        width: 327
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_34
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1314
+        width: 328
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1313
+        width: 47
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1316
+        width: 364
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1209
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1224
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_40
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1196
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1218
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1192
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_43
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1215
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_44
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1008
+        width: 188
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_45
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1012
+        width: 192
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_46
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1040
+        width: 180
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_47
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1169
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_48
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1066
+        width: 13
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_49
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1082
+        width: 16
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_50
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1048
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_51
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1088
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_52
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1108
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_53
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 912
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_54
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 930
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_55
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 932
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_56
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 788
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_57
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 897
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_58
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 869
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_59
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 656
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_60
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 641
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 399
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_62
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 384
+        width: 384
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_63
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 396
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_65
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 500
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_66
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 296
+        width: 20
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_67
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 308
+        width: 6
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_68
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 282
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_69
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 284
+        width: 239
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 112
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_71
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 0
+        width: 111
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_72
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 112
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_73
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 0
+        width: 111
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_74
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 111
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_75
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 194
+        width: 211
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_76
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 181
+        width: 480
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_77
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_78
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_79
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_80
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_81
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_82
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 163
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_83
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_84
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_85
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_86
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_87
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_88
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 163
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_89
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_90
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_91
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_92
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_93
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 163
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_94
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_95
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_96
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_97
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_98
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_99
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_100
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_101
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 163
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_102
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_103
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_104
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_105
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_106
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 163
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_107
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 163
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_108
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_109
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_110
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 163
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_111
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_112
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_113
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_114
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_115
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_116
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_117
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_118
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_119
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 163
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_120
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_121
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_122
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_123
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 163
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_124
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 163
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_125
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 163
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_126
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_127
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_128
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 163
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_129
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_130
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oni_ef00out_131
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 0
+        width: 422
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

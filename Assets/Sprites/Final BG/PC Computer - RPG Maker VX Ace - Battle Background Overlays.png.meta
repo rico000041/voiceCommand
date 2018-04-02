@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 615b0d1e8a3ebcb4280732d7d8d32885
+timeCreated: 1521966317
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - RPG Maker VX Ace - Battle Background Overlays_0
+    21300002: PC Computer - RPG Maker VX Ace - Battle Background Overlays_1
+    21300004: PC Computer - RPG Maker VX Ace - Battle Background Overlays_2
+    21300006: PC Computer - RPG Maker VX Ace - Battle Background Overlays_3
+    21300008: PC Computer - RPG Maker VX Ace - Battle Background Overlays_4
+    21300010: PC Computer - RPG Maker VX Ace - Battle Background Overlays_5
+    21300012: PC Computer - RPG Maker VX Ace - Battle Background Overlays_6
+    21300014: PC Computer - RPG Maker VX Ace - Battle Background Overlays_7
+    21300016: PC Computer - RPG Maker VX Ace - Battle Background Overlays_8
+    21300018: PC Computer - RPG Maker VX Ace - Battle Background Overlays_9
+    21300020: PC Computer - RPG Maker VX Ace - Battle Background Overlays_10
+    21300022: PC Computer - RPG Maker VX Ace - Battle Background Overlays_11
+    21300024: PC Computer - RPG Maker VX Ace - Battle Background Overlays_12
+    21300026: PC Computer - RPG Maker VX Ace - Battle Background Overlays_13
+    21300028: PC Computer - RPG Maker VX Ace - Battle Background Overlays_14
+    21300030: PC Computer - RPG Maker VX Ace - Battle Background Overlays_15
+    21300032: PC Computer - RPG Maker VX Ace - Battle Background Overlays_16
+    21300034: PC Computer - RPG Maker VX Ace - Battle Background Overlays_17
+    21300036: PC Computer - RPG Maker VX Ace - Battle Background Overlays_18
+    21300038: PC Computer - RPG Maker VX Ace - Battle Background Overlays_19
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2108
+        width: 581
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2131
+        width: 582
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_2
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2132
+        width: 582
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_3
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 2116
+        width: 582
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1655
+        width: 581
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1596
+        width: 582
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_6
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1656
+        width: 582
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_7
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1633
+        width: 581
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1143
+        width: 581
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1182
+        width: 582
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_10
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1184
+        width: 582
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_11
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1178
+        width: 581
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 709
+        width: 581
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 691
+        width: 582
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_14
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 709
+        width: 582
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_15
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 698
+        width: 581
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 206
+        width: 581
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 199
+        width: 582
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_18
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 244
+        width: 582
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker VX Ace - Battle Background Overlays_19
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 230
+        width: 581
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

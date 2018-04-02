@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: e4e684df0aed835428281a8fe56a3c6d
+timeCreated: 1521936421
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Pac Pinky_0
+    21300002: PC Computer - MapleStory - Pac Pinky_1
+    21300004: PC Computer - MapleStory - Pac Pinky_2
+    21300006: PC Computer - MapleStory - Pac Pinky_3
+    21300008: PC Computer - MapleStory - Pac Pinky_4
+    21300010: PC Computer - MapleStory - Pac Pinky_5
+    21300012: PC Computer - MapleStory - Pac Pinky_6
+    21300014: PC Computer - MapleStory - Pac Pinky_7
+    21300016: PC Computer - MapleStory - Pac Pinky_8
+    21300018: PC Computer - MapleStory - Pac Pinky_9
+    21300020: PC Computer - MapleStory - Pac Pinky_10
+    21300022: PC Computer - MapleStory - Pac Pinky_11
+    21300024: PC Computer - MapleStory - Pac Pinky_12
+    21300026: PC Computer - MapleStory - Pac Pinky_13
+    21300028: PC Computer - MapleStory - Pac Pinky_14
+    21300030: PC Computer - MapleStory - Pac Pinky_15
+    21300032: PC Computer - MapleStory - Pac Pinky_16
+    21300034: PC Computer - MapleStory - Pac Pinky_17
+    21300036: PC Computer - MapleStory - Pac Pinky_18
+    21300038: PC Computer - MapleStory - Pac Pinky_19
+    21300040: PC Computer - MapleStory - Pac Pinky_20
+    21300042: PC Computer - MapleStory - Pac Pinky_21
+    21300044: PC Computer - MapleStory - Pac Pinky_22
+    21300046: PC Computer - MapleStory - Pac Pinky_23
+    21300048: PC Computer - MapleStory - Pac Pinky_24
+    21300050: PC Computer - MapleStory - Pac Pinky_25
+    21300052: PC Computer - MapleStory - Pac Pinky_26
+    21300054: PC Computer - MapleStory - Pac Pinky_27
+    21300056: PC Computer - MapleStory - Pac Pinky_28
+    21300058: PC Computer - MapleStory - Pac Pinky_29
+    21300060: PC Computer - MapleStory - Pac Pinky_30
+    21300062: PC Computer - MapleStory - Pac Pinky_31
+    21300064: PC Computer - MapleStory - Pac Pinky_32
+    21300066: PC Computer - MapleStory - Pac Pinky_33
+    21300068: PC Computer - MapleStory - Pac Pinky_34
+    21300070: PC Computer - MapleStory - Pac Pinky_35
+    21300072: PC Computer - MapleStory - Pac Pinky_36
+    21300074: PC Computer - MapleStory - Pac Pinky_37
+    21300076: PC Computer - MapleStory - Pac Pinky_38
+    21300078: PC Computer - MapleStory - Pac Pinky_39
+    21300080: PC Computer - MapleStory - Pac Pinky_40
+    21300082: PC Computer - MapleStory - Pac Pinky_41
+    21300084: PC Computer - MapleStory - Pac Pinky_42
+    21300086: PC Computer - MapleStory - Pac Pinky_43
+    21300088: PC Computer - MapleStory - Pac Pinky_44
+    21300090: PC Computer - MapleStory - Pac Pinky_45
+    21300092: PC Computer - MapleStory - Pac Pinky_46
+    21300094: PC Computer - MapleStory - Pac Pinky_47
+    21300096: PC Computer - MapleStory - Pac Pinky_48
+    21300098: PC Computer - MapleStory - Pac Pinky_49
+    21300100: PC Computer - MapleStory - Pac Pinky_50
+    21300102: PC Computer - MapleStory - Pac Pinky_51
+    21300104: PC Computer - MapleStory - Pac Pinky_52
+    21300106: PC Computer - MapleStory - Pac Pinky_53
+    21300108: PC Computer - MapleStory - Pac Pinky_54
+    21300110: PC Computer - MapleStory - Pac Pinky_55
+    21300112: PC Computer - MapleStory - Pac Pinky_56
+    21300114: PC Computer - MapleStory - Pac Pinky_57
+    21300116: PC Computer - MapleStory - Pac Pinky_58
+    21300118: PC Computer - MapleStory - Pac Pinky_59
+    21300120: PC Computer - MapleStory - Pac Pinky_60
+    21300122: PC Computer - MapleStory - Pac Pinky_61
+    21300124: PC Computer - MapleStory - Pac Pinky_62
+    21300126: PC Computer - MapleStory - Pac Pinky_63
+    21300128: PC Computer - MapleStory - Pac Pinky_64
+    21300130: PC Computer - MapleStory - Pac Pinky_65
+    21300132: PC Computer - MapleStory - Pac Pinky_66
+    21300134: PC Computer - MapleStory - Pac Pinky_67
+    21300136: PC Computer - MapleStory - Pac Pinky_68
+    21300138: PC Computer - MapleStory - Pac Pinky_69
+    21300140: PC Computer - MapleStory - Pac Pinky_70
+    21300142: PC Computer - MapleStory - Pac Pinky_71
+    21300144: PC Computer - MapleStory - Pac Pinky_72
+    21300146: PC Computer - MapleStory - Pac Pinky_73
+    21300148: PC Computer - MapleStory - Pac Pinky_74
+    21300150: PC Computer - MapleStory - Pac Pinky_75
+    21300152: PC Computer - MapleStory - Pac Pinky_76
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 592
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 592
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 592
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 592
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 642
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 639
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 639
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 642
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 642
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_9
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 642
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 639
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_11
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 642
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 642
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 639
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 642
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_15
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 642
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_16
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 642
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 626
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 626
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 626
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 626
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 626
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 623
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_23
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 623
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_24
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 626
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 626
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 626
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_27
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 626
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_28
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 626
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_29
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 610
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_30
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 610
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_31
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 607
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_32
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 610
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 610
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 610
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 610
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 610
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 481
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 481
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 481
+        width: 119
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 481
+        width: 120
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_41
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 481
+        width: 117
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_42
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 481
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_43
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 481
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_44
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 481
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_45
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 481
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_46
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 481
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 333
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_48
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 330
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 331
+        width: 132
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_50
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 324
+        width: 169
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_51
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 385
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_52
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 321
+        width: 181
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_53
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 325
+        width: 176
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_54
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 331
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_55
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 326
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_56
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 330
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 253
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_58
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 228
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 227
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 124
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_61
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 74
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_62
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 91
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_63
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 103
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_65
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 22
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 22
+        width: 131
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_67
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 24
+        width: 113
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 6
+        width: 121
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_69
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 24
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_70
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 26
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_71
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 27
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_72
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 27
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_73
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 27
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_74
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 27
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_75
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 27
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pac Pinky_76
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 27
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
